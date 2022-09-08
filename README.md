@@ -7,7 +7,7 @@ You get to add, edit and delete tasks. with a nice User Interface
 
 ## View project 😉 :
 
-### https://yinka-calculator.netlify.app
+### https://yk-todo.netlify.app
 
 ---
 
