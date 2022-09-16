@@ -337,8 +337,7 @@ Grocery List
 }
 .grocery-item:hover {
   color: var(--clr-grey-5);
-  opacity: 0.8;
-  text-decoration: line-through;
+  opacity: 0.65;
 }
 .grocery-item:hover .title {
   color: var(--clr-grey-5);
@@ -350,6 +349,10 @@ Grocery List
   color: var(--clr-grey-1);
   transition: var(--transition);
   font-size: 1rem;
+}
+
+.title:hover {
+  text-decoration: line-through;
 }
 .edit-btn,
 .delete-btn {
